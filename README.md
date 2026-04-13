@@ -1,1 +1,2 @@
-# stack-postgis
+# PostGIS stack for Wodby 2.0
+
