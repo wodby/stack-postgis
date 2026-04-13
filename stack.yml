@@ -1,0 +1,11 @@
+name: postgis
+title: PostGIS
+icon: postgis
+
+services:
+- name: postgis
+  title: PostGIS
+  service: postgis
+  volumes:
+  - name: data
+    size: 20
