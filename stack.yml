@@ -4,7 +4,7 @@ icon: postgis
 
 services:
 - name: postgis
-  title: PostGIS
+  title: PostgreSQL
   service: postgis
   volumes:
   - name: data
