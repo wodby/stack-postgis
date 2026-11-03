@@ -1,6 +1,7 @@
 name: postgis
 title: PostGIS
 icon: postgis
+docs: https://wodby.com/docs/2.0/stacks/catalog/postgis/
 
 services:
 - name: postgis
